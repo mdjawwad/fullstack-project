@@ -1,5 +1,17 @@
 {
+  "name": "mearn-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "mohamamad jawwad faisal",
+  "license": "ISC",
   "devDependencies": {
+    "nodemon": "^3.0.1",
     "prettier": "^3.1.0"
   }
 }
